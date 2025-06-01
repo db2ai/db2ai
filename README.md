@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Saikat — aka `db2ai`
 
-<!--
-**db2ai/db2ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 From Databases to Deep Learning
 
-Here are some ideas to get you started:
+After 16+ years of experience as an Oracle DBA, I'm now on an exciting journey into Artificial Intelligence, Machine Learning, and Data Science. I'm blending deep domain knowledge in data systems with modern predictive modeling, automation, and AI-first solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What I’m Working On
+
+- 🛠️ Building ML pipelines and AI-powered prototypes
+- 📚 Learning PyTorch, scikit-learn, and Hugging Face
+- 📊 Exploring large-scale data processing with Python & SQL
+- 🤖 Integrating AI into enterprise workflows
+
+
+
+🔄 Career Pivot in Progress
+
+This GitHub marks a fresh chapter — a pivot from managing data to **empowering it**. You’ll find:
+- Hands-on ML/AI projects
+- Refactored scripts from DBA life
+- Blog posts and notebooks documenting my learning
+
+
+
