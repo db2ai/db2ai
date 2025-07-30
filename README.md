@@ -6,19 +6,21 @@ After 16+ years of experience as an Oracle DBA, I'm now on an exciting journey i
 
 🧠 What I’m Working On
 
-- 🛠️ Building ML pipelines and AI-powered prototypes
-- 📚 Learning PyTorch, scikit-learn, and Hugging Face
-- 📊 Exploring large-scale data processing with Python & SQL
-- 🤖 Integrating AI into enterprise workflows
+Building ML pipelines and AI-powered prototypes  
+Learning PyTorch, scikit-learn, and Hugging Face  
+Exploring large-scale data processing with Python & SQL  
+Integrating AI into enterprise workflows  
+Exploring LangChain, vector databases, and RAG architectures
+Career Pivot in Progress
 
+📂 This GitHub marks a fresh chapter — a pivot from managing data to empowering it. Here, you’ll find:
 
+✅ Hands-on ML/AI projects  
+✅ RAG and LangChain prototypes tied to blog content
+✅ Refactored scripts from DBA life  
+✅ Blog posts and notebooks documenting my learning path
 
-🔄 Career Pivot in Progress
-
-This GitHub marks a fresh chapter — a pivot from managing data to **empowering it**. You’ll find:
-- Hands-on ML/AI projects
-- Refactored scripts from DBA life
-- Blog posts and notebooks documenting my learning
+📬 Want to collaborate or discuss enterprise AI integration? Reach me via LinkedIn or check out my blog at my webstie,
 
 
 
