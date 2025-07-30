@@ -7,7 +7,7 @@ After 16+ years of experience as an Oracle DBA, I'm now on an exciting journey i
 🧠 What I’m Working On
 
 Building ML pipelines and AI-powered prototypes  
-Learning PyTorch, scikit-learn, and Hugging Face  
+Learning LangChain, OpenAI APIs, and vector search with Chroma & FAISS
 Exploring large-scale data processing with Python & SQL  
 Integrating AI into enterprise workflows  
 Exploring LangChain, vector databases, and RAG architectures
