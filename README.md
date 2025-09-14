@@ -1,4 +1,4 @@
-👋 Hi, I'm `db2ai`
+👋 Hi, I'm `Saikat`
 
 From Databases to Deep Learning
 ===============================
